@@ -1,0 +1,1 @@
+web: npx json-server db.json
